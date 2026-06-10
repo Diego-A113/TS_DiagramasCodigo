@@ -1,7 +1,7 @@
 package com.tsdiagramas;
 
 public class SoporteTecnico extends Usuario {
-    
+
     public void brindarAsistencia(Usuario usuario){
 
     }
@@ -13,4 +13,6 @@ public class SoporteTecnico extends Usuario {
     public void derivarProblemaDeGestion(Administrador administrador){
 
     }
+
+    
 }

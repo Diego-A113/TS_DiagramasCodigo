@@ -2,6 +2,7 @@ package com.tsdiagramas;
 
 public class Administrador extends Usuario {
     
+    
     public void crearUsuarioConRol(String usuario, String contraseña){
 
     }
@@ -14,7 +15,7 @@ public class Administrador extends Usuario {
 
     }
 
-    public asignarResponsable(Curso curso, Profesor responsable){
+    public void asignarResponsable(Curso curso, Profesor responsable){
 
     }
 }

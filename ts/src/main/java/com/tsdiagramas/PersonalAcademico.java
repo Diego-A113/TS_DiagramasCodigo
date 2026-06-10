@@ -13,4 +13,5 @@ public class PersonalAcademico extends Usuario{
     public void comentarEnForo(Foro foro, String comentario){
 
     }
+
 }
